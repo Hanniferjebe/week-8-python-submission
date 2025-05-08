@@ -1,4 +1,4 @@
-# COVID-19 Global Data Tracker
+# Week 8 Project
 
 This project is a data analysis report built using Python to track the global trends of the COVID-19 pandemic. It covers the spread of the virus, death tolls, vaccination progress, and comparisons across countries using real-world data.
 
@@ -35,7 +35,7 @@ This project is a data analysis report built using Python to track the global tr
    bash
    Copy
    Edit
-   jupyter notebook COVID19_Global_Data_Tracker.ipynb
+   jupyter notebook Week 8 Project.ipynb
 
 3. Run all cells to execute the analysis.
 
