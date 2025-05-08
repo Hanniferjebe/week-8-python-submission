@@ -41,6 +41,7 @@ This project is a data analysis report built using Python to track the global tr
 
 Note: Make sure owid-covid-data.csv is in the same folder as the notebook.
 
+
 📈 Key Insights
 Countries like the US and India reported the highest total cases.
 
@@ -51,6 +52,8 @@ The death rate (% of total cases) varied notably by region.
 Line and bar charts helped visualize both short-term spikes and long-term trends.
 
 Pie charts were used to compare vaccinated vs. unvaccinated populations.
+
+
 
 📌 Reflections
 This project improved my skills in:
