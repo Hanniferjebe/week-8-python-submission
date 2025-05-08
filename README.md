@@ -28,7 +28,7 @@ This project is a data analysis report built using Python to track the global tr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/covid19-global-data-tracker.git
+   git clone https://github.com/Hanniferjebe/week-8-python-submission.git
 
 2. Open the notebook:
 
